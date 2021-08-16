@@ -1,9 +1,12 @@
 ---
 layout: page
-title: About
+title: درباره‌ی ما
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+نگاهی دور و نزدیک به ترجمه و حرفه‌ی مترجمی. 
+تلاشی برای آموزش و آشنایی، برای جذاب‌کردن حرفه‌ی مترجمی
 
-email: agus[at]python.web.id
+مدیر مسئول: کاوان بشیری
+
+ایمیل: info[at]motarjemshodan.ir
